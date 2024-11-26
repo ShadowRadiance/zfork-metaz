@@ -1,0 +1,8 @@
+The code with related MetaZ changes for this version can be found on github at this location:
+
+   https://github.com/jmcintyre/mp4v2/commit/046e93ca495e9d2dd96f905f0e9c9aa2619486b2
+
+The build was performed as follows:
+
+   cmake -DBUILD_SHARED=OFF .
+   make
